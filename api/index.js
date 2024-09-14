@@ -1,10 +1,32 @@
-const express = require('express')
-const app = express()
-app.get('/api', (req, res) => {
-    res.send(`<h5 style="color:green"> 
-        Hey Geek! you just deployed serverless express api</h5>`)
-})
-app.listen(8080, () => {
-    console.log('Server started at http://localhost:8080')
-})
+const express = require("express");
+const cors = require("cors");
+const fs = require("fs");
+const path = require("path");
+
+const app = express();
+app.use(cors());
+app.use(express.json());
+
+const dataFilePath = path.join(__dirname, "data.json");
+
+// Функция для загрузки данных из файла
+function loadData() {
+    if (fs.existsSync(dataFilePath)) {
+        const rawData = fs.readFileSync(dataFilePath);
+        return JSON.parse(rawData);
+    }
+    return [];
+}
+
+// Загрузка данных при старте сервера
+let characters = loadData();
+
+app.get("/api", function (_, res) {
+    res.send(characters);
+});
+
+app.listen(3000, function () {
+    console.log("Сервер ожидает подключения...");
+});
+
 module.exports = app
