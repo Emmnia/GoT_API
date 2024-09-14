@@ -5,7 +5,7 @@
         "title": "Лорд-хранитель Севера",
         "causeOfDeath": "Умер, пытаясь доказать, что честь дороже головы. Голова не согласилась",
         "placeOfDeath": "Королевская Гавань",
-        "photo": "api/images/eddard.jpeg"
+        "photo": "./images/eddard.jpeg"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "title": "Король Севера",
         "causeOfDeath": "Попал на самую кровавую свадьбу Вестероса, где тосты оказались слишком острыми",
         "placeOfDeath": "Близнецы",
-        "photo": "api/images/robb.jpeg"
+        "photo": "./images/robb.jpeg"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "title": "Леди Винтерфелла",
         "causeOfDeath": "Погибла, когда зашла слишком далеко в споре с Лизой Аррен о том, кто из них лучше варит суп",
         "placeOfDeath": "Близнецы",
-        "photo": "api/images/caytlin.jpeg"
+        "photo": "./images/caytlin.jpeg"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "title": "Король Андалов и Первых Людей",
         "causeOfDeath": "Отравился на своей свадьбе, запив пирог ядовитым вином",
         "placeOfDeath": "Королевская Гавань",
-        "photo": "api/images/joffrey.jpeg"
+        "photo": "./images/joffrey.jpeg"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "title": "Кхал дотракийцев",
         "causeOfDeath": "Умер от раны и ведьминского зелья, не выдержав атаки на свое здоровье",
         "placeOfDeath": "Дотракийское море",
-        "photo": "api/images/khal.jpeg"
+        "photo": "./images/khal.jpeg"
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "title": "Десница короля",
         "causeOfDeath": "Убит собственным сыном в самый неудобный момент",
         "placeOfDeath": "Королевская Гавань",
-        "photo": "api/images/tyvin.jpeg"
+        "photo": "./images/tyvin.jpeg"
     },
     {
         "id": 7,
@@ -53,7 +53,7 @@
         "title": "Лорд Штормового Предела",
         "causeOfDeath": "Убит теневым существом, порождённым его собственным братом",
         "placeOfDeath": "Штормовые земли",
-        "photo": "api/images/renley.jpeg"
+        "photo": "./images/renley.jpeg"
     },
     {
         "id": 8,
@@ -61,7 +61,7 @@
         "title": "Принц Дорна",
         "causeOfDeath": "Умер в бою от рук Григора Клигана, переоценив свои способности",
         "placeOfDeath": "Королевская Гавань",
-        "photo": "api/images/oberyn.jpeg"
+        "photo": "./images/oberyn.jpeg"
     },
     {
         "id": 9,
@@ -69,7 +69,7 @@
         "title": "Одичалая",
         "causeOfDeath": "Замёрзла, пытаясь показать Джону Сноу, что «он ничего не знает» о холоде",
         "placeOfDeath": "Чёрный замок",
-        "photo": "api/images/igritt.jpeg"
+        "photo": "./images/igritt.jpeg"
     },
     {
         "id": 10,
@@ -77,7 +77,7 @@
         "title": "Король Андалов и Первых Людей",
         "causeOfDeath": "Погиб в битве за Винтерфелл, оставленный своим войском",
         "placeOfDeath": "Винтерфелл",
-        "photo": "api/images/stannis.jpeg"
+        "photo": "./images/stannis.jpeg"
     },
     {
         "id": 11,
@@ -85,7 +85,7 @@
         "title": "Принцесса",
         "causeOfDeath": "Ушла в огненный закат, когда кто-то перепутал её свечу с факелом",
         "placeOfDeath": "Лагерь Станниса Баратеона",
-        "photo": "api/images/shiren.jpeg"
+        "photo": "./images/shiren.jpeg"
     },
     {
         "id": 12,
@@ -93,7 +93,7 @@
         "title": "Слуга дома Старков",
         "causeOfDeath": "Погиб, когда его любимая дверь неожиданно решила стать стеной",
         "placeOfDeath": "Пещера Трёхглазого Ворона",
-        "photo": "api/images/hodor.jpeg"
+        "photo": "./images/hodor.jpeg"
     },
     {
         "id": 13,
@@ -101,7 +101,7 @@
         "title": "Лорд-хранитель Севера",
         "causeOfDeath": "Стал ужином для собственных собак",
         "placeOfDeath": "Винтерфелл",
-        "photo": "api/images/ramsey.jpeg"
+        "photo": "./images/ramsey.jpeg"
     },
     {
         "id": 14,
@@ -109,7 +109,7 @@
         "title": "Королева Семи Королевств",
         "causeOfDeath": "Погибла вместе с Лорасом при взрыве дикого огня в Великом Септе",
         "placeOfDeath": "Королевская Гавань",
-        "photo": "api/images/margaery.jpeg"
+        "photo": "./images/margaery.jpeg"
     },
     {
         "id": 15,
@@ -117,7 +117,7 @@
         "title": "Рыцарь Цветов",
         "causeOfDeath": "Погиб, когда пытался одолеть дракона в дуэли на шпажках, но дракон выбрал что-то более огненное",
         "placeOfDeath": "Королевская Гавань",
-        "photo": "api/images/loras.jpeg"
+        "photo": "./images/loras.jpeg"
     },
     {
         "id": 16,
@@ -125,7 +125,7 @@
         "title": "Принц династии Таргариенов",
         "causeOfDeath": "Умер, когда Дрого «наградил» его золотой короной",
         "placeOfDeath": "Ваэс Дотрак",
-        "photo": "api/images/viserys.jpeg"
+        "photo": "./images/viserys.jpeg"
     },
     {
         "id": 17,
@@ -133,7 +133,7 @@
         "title": "Лорд Железных Островов",
         "causeOfDeath": "Утонул в ванной, крича, что Железнорождённые не тонут",
         "placeOfDeath": "Пайк",
-        "photo": "api/images/baylon.jpeg"
+        "photo": "./images/baylon.jpeg"
     },
     {
         "id": 18,
@@ -141,7 +141,7 @@
         "title": "Принцесса Семи Королевств",
         "causeOfDeath": "Умерла от отравленного поцелуя Элларии Сэнд",
         "placeOfDeath": "На корабле, возвращаясь в Королевскую Гавань",
-        "photo": "api/images/mircella.jpeg"
+        "photo": "./images/mircella.jpeg"
     },
     {
         "id": 19,
@@ -149,7 +149,7 @@
         "title": "Король Андалов и Первых Людей",
         "causeOfDeath": "Погиб, пытаясь выпить вино из бочки, но та оказалась слишком велика",
         "placeOfDeath": "Королевская Гавань",
-        "photo": "api/images/robert.jpeg"
+        "photo": "./images/robert.jpeg"
     },
     {
         "id": 20,
@@ -157,7 +157,7 @@
         "title": "Лорд Винтерфелла",
         "causeOfDeath": "Убит стрелой Рамси Болтона, когда бежал к брату",
         "placeOfDeath": "Винтерфелл",
-        "photo": "api/images/rickon.jpeg"
+        "photo": "./images/rickon.jpeg"
     },
     {
         "id": 21,
@@ -165,7 +165,7 @@
         "title": "Король Андалов и Первых Людей",
         "causeOfDeath": "Прыгнул из окна после того, как увидел, что происходит в его королевстве",
         "placeOfDeath": "Королевская Гавань",
-        "photo": "api/images/tommen.jpeg"
+        "photo": "./images/tommen.jpeg"
     },
     {
         "id": 22,
@@ -173,7 +173,7 @@
         "title": "Леди Долины",
         "causeOfDeath": "Погибла от отравления, когда её любимый пирог оказался с сюрпризом, приготовленным по «секретному» рецепту",
         "placeOfDeath": "Орлиное гнездо",
-        "photo": "api/images/lisa.jpeg"
+        "photo": "./images/lisa.jpeg"
     },
     {
         "id": 23,
@@ -181,7 +181,7 @@
         "title": "Десница короля",
         "causeOfDeath": "Ушёл на пенсию, теперь продаёт мемуары «Как НЕ умереть на посту»",
         "placeOfDeath": "Королевская Гавань",
-        "photo": "api/images/johnar.webp"
+        "photo": "./images/johnar.webp"
     },
     {
         "id": 24,
@@ -189,7 +189,7 @@
         "title": "Первый разведчик Ночного Дозора",
         "causeOfDeath": "Погиб, защищая Джона Сноу от мертвецов",
         "placeOfDeath": "За Стеной",
-        "photo": "api/images/benjen.jpg"
+        "photo": "./images/benjen.jpg"
     },
     {
         "id": 25,
@@ -197,7 +197,7 @@
         "title": "Леди Тарт",
         "causeOfDeath": "Жива и ведёт школу боевых искусств для девочек",
         "placeOfDeath": "Неизвестно",
-        "photo": "api/images/brienna.jpeg"
+        "photo": "./images/brienna.jpeg"
     },
     {
         "id": 26,
@@ -205,7 +205,7 @@
         "title": "Десница королевы",
         "causeOfDeath": "Перепил Вариcа, заснул под столом, проснулся героем",
         "placeOfDeath": "Неизвестно",
-        "photo": "api/images/tyrion.jpeg"
+        "photo": "./images/tyrion.jpeg"
     },
     {
         "id": 27,
@@ -213,7 +213,7 @@
         "title": "Королева Семи Королевств",
         "causeOfDeath": "Погибла от собственных интриг, когда её коварный план сработал против неё",
         "placeOfDeath": "Королевская Гавань",
-        "photo": "api/images/cersey.jpeg"
+        "photo": "./images/cersey.jpeg"
     },
     {
         "id": 28,
@@ -221,7 +221,7 @@
         "title": "Лорд-командующий Королевской Гвардии",
         "causeOfDeath": "Погиб, когда попытался спасти Серсею из обрушившегося замка, но оказался зажат под обломками, обняв их на прощание",
         "placeOfDeath": "Королевская Гавань",
-        "photo": "api/images/jayme.jpeg"
+        "photo": "./images/jayme.jpeg"
     },
     {
         "id": 29,
@@ -229,7 +229,7 @@
         "title": "Королева Андалов и Первых Людей",
         "causeOfDeath": "Убита Джоном Сноу после того, как её амбиции зашли слишком далеко",
         "placeOfDeath": "Королевская Гавань",
-        "photo": "api/images/dayenerys.jpeg"
+        "photo": "./images/dayenerys.jpeg"
     },
     {
         "id": 30,
@@ -237,7 +237,7 @@
         "title": "Король Севера",
         "causeOfDeath": "Попробовал управлять Севером с помощью своих «мудрых» советов, но все просто начали предлагать ему чай с медом и утешительные объяти",
         "placeOfDeath": "Неизвестно",
-        "photo": "api/images/jons.jpeg"
+        "photo": "./images/jons.jpeg"
     },
     {
         "id": 31,
@@ -245,7 +245,7 @@
         "title": "Лидер Белых Ходоков",
         "causeOfDeath": "Убит Арьей Старк, когда всё казалось уже потерянным",
         "placeOfDeath": "Винтерфелл",
-        "photo": "api/images/nightking.jpeg"
+        "photo": "./images/nightking.jpeg"
     },
     {
         "id": 32,
@@ -253,7 +253,7 @@
         "title": "Дракон Дейенерис Таргариен",
         "causeOfDeath": "Ушёл в долгий отпуск после того, как сжёг трон, чтобы отдохнуть от всех этих «королевских обязанностей» и просто полетать в тёплых краях",
         "placeOfDeath": "Неизвестно",
-        "photo": "api/images/drogon.jpeg"
+        "photo": "./images/drogon.jpeg"
     },
     {
         "id": 33,
@@ -261,7 +261,7 @@
         "title": "Дракон Дейенерис Таргариен",
         "causeOfDeath": "Съел слишком много поросят, теперь его портрет в каждом кулинарном журнале",
         "placeOfDeath": "На пути к Королевской Гавани",
-        "photo": "api/images/raygal.jpeg"
+        "photo": "./images/raygal.jpeg"
     },
     {
         "id": 34,
@@ -269,7 +269,7 @@
         "title": "Дракон Дейенерис Таргариен",
         "causeOfDeath": " Погиб, когда попытался устроить ледяное шоу, но оказался слишком замороженным, чтобы двигаться дальше",
         "placeOfDeath": "За Стеной",
-        "photo": "api/images/vyserion.jpg"
+        "photo": "./images/vyserion.jpg"
     },
     {
         "id": 35,
@@ -277,6 +277,6 @@
         "title": "Королева Севера",
         "causeOfDeath": "Жива и ведёт кулинарное шоу «Королева Севера и её пирожные»",
         "placeOfDeath": "Неизвестно",
-        "photo": "api/images/sansa.jpeg"
+        "photo": "./images/sansa.jpeg"
     }
 ]
