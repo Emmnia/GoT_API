@@ -278,5 +278,13 @@
         "causeOfDeath": "Жива и ведёт кулинарное шоу «Королева Севера и её пирожные»",
         "placeOfDeath": "Неизвестно",
         "photo": "https://xhekevbbwot9tcaz.public.blob.vercel-storage.com/sansa-Z3A3tQkLXCHtdnuRAIDMUdWukhZWh3.jpeg"
+    },
+    {
+        "id": 36,
+        "name": "Оленна Тирелл",
+        "title": "Королева шипов",
+        "causeOfDeath": "Подняла отравленный тост по приказу Серсеи Ланнистер",
+        "placeOfDeath": "Королевская Гавань",
+        "photo": "https://xhekevbbwot9tcaz.public.blob.vercel-storage.com/olenna-jO8TJc0bU82gKQnNghO79eBU59xs4p.jpg"
     }
 ]
